@@ -4,8 +4,8 @@
 -The automation framework is built by automating the test cases mentioned in below section using REST assured and TestNG
 -The solution uses Maven for build compilation & dependency management. Java faker library is used to generate random fake data wherever required.
 	
-Proposed Test cases for Automation:
-----------------------
+Automation Test Cases for 3 API's:
+---------------------------------
 
 **Store API**
 - To fetch the inventory status
