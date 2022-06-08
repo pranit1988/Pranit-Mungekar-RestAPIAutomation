@@ -1,0 +1,13 @@
+<?xml version = "1.0"encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "PetstoreAPIProject"  thread-count="3">
+   <test name = "PetstoreAPIProject">
+    <classes>
+          <class name = "APITests.PetTest"/>
+          <class name = "APITests.StoreTest"/>
+          <class name = "APITests.UserTest"/>
+     </classes>  
+   </test>              
+               
+  
+</suite>

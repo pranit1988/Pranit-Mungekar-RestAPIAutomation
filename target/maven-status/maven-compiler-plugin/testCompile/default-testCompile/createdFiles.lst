@@ -1,0 +1,13 @@
+DataModel\UserPojo.class
+APITests\UserTest.class
+RequestData\UserRequestData.class
+RequestData\StoreRequestData.class
+APITests\PetTest.class
+DataCreation\UserDataCreation.class
+RequestData\PetRequestData.class
+DataCreation\StoreDataCreation.class
+DataCreation\PetDataCreation.class
+DataModel\PetPojo.class
+APITests\StoreTest.class
+APITests\TestBase.class
+DataModel\StorePojo.class
