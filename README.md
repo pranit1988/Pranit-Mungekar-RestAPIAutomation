@@ -27,7 +27,7 @@ Automation Test Cases for 3 API's:
 - Log out the newly created user from current active session	
 	
 
-** Follow instructions from the project's readme file
+** Follow instructions from the project's readme file **
 
 Setup Instructions (Windows)
 ----------------------
