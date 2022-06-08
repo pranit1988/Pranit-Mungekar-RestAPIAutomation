@@ -1,8 +1,8 @@
 # REST Assured framework for Swagger Petstore - OpenAPI 3.0
 
--The automation framework project is created for a REST API, Swagger Petstore - OpenAPI 3.0. The tests are implemented using Rest Assured & build using Maven 
--The automation framework is built by automating the test cases mentioned in below section using REST assured and TestNG
--The solution uses Maven for build compilation & dependency management. Java faker library is used to generate random fake data wherever required.
+- The automation framework project is created for a REST API, Swagger Petstore - OpenAPI 3.0. The tests are implemented using Rest Assured & build using Maven
+- The automation framework is built by automating the test cases mentioned in below section using REST assured and TestNG
+- The solution uses Maven for build compilation & dependency management. Java faker library is used to generate random fake data wherever required.
 	
 Automation Test Cases for 3 API's:
 ---------------------------------
@@ -27,7 +27,7 @@ Automation Test Cases for 3 API's:
 - Log out the newly created user from current active session	
 	
 
-- Follow instructions from the project's readme file
+** Follow instructions from the project's readme file
 
 Setup Instructions (Windows)
 ----------------------
