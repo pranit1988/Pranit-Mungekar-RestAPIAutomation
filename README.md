@@ -42,7 +42,7 @@ https://github.com/pranit1988/Pranit-Mungekar-RestAPIAutomation.git
 	- Choose 'PetstoreAPIProject' folder
 4. Install Maven. Run following command in terminal -> ```brew install maven``` (Pre requisite: brew should be present in the system)
 	
-Run Automated Tests from IntelliJ / Terminal
+Run Automated Tests from Eclipse / Terminal
 ----------------------
 1. Navigate to 'PetstoreAPIProject' folder from terminal window
 2. Run following command -> ``` mvn clean test```
